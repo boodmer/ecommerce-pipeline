@@ -1,4 +1,4 @@
-# Project: Ecommerce Pipeline
+# Project: E-commerce Pipeline
 Developed and automated  data pipelines to ingest, transform, and generate daily revenue reports from PostgreSQL databases to a data lake HDFS and data warehouse HIVE using Pyspark and Apache Airflow.
 
 # Run test
