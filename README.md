@@ -5,9 +5,10 @@ Developed and automated  data pipelines to ingest, transform, and generate daily
 
 ### Set up Postgres Database
 
-set up postgres data and create users, user_details, orders, order_details, products, product_inventories table
+Set up postgres data and create users, user_details, orders, order_details, products, product_inventories table
 
 ### Set Env to env file
+Get env example in project and update it.
 
 ### Run Ingest
 
