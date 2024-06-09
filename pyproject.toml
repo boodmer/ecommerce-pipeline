@@ -1,0 +1,16 @@
+[project]
+name = "ecommerce-pineline"
+version = "0.1.0"
+description = "Automated E-commerce Data Pipeline"
+dependencies = [
+    "click",
+    "pyspark==3.5.1",
+    "python-dotenv"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/utils"]
