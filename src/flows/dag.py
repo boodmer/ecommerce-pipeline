@@ -6,7 +6,7 @@ from airflow.models import Variable
 from dotenv import load_dotenv
 
 with DAG(
-    "ecommerce-pineline",
+    "ecommerce-pipeline",
     default_args={
         'depends_on_past': False,
         'email': ['minh.tonn@gmail.com'],

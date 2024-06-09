@@ -1,5 +1,5 @@
 [project]
-name = "ecommerce-pineline"
+name = "ecommerce-pipeline"
 version = "0.1.0"
 description = "Automated E-commerce Data Pipeline"
 dependencies = [
